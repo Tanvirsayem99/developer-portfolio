@@ -108,5 +108,8 @@ main{
 .info-description{
     font-weight: 700;
     font-size: 20px;
-
+}
+/* section waht i do */
+.what-i-do{
+    margin-top: 130px;
 }
